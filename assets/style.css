@@ -1,0 +1,8 @@
+#playerScoreboard #aiScoreboard{
+    color: lightblue;
+  }
+    
+  progress::-moz-progress-bar {
+    background: red;
+  }
+  
